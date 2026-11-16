@@ -1,5 +1,5 @@
 // ─── arabic-101.types.ts ─────────────────────────────────────────────────────
-// Client-safe types and pure helpers only — no AWS SDK, no Node.js APIs.
+// Client-safe types and pure helpers only — no Node.js APIs.
 // Imported by both client (route components) and server (arabic-101.server.ts).
 
 export interface QuizItem {
@@ -17,8 +17,8 @@ export interface QuranExample {
   note?: string
 }
 
-// Mirrors the JSON shape stored in S3. Fields prefixed with `_` are NOT in the
-// S3 file — they are injected at runtime by the server loading functions.
+// Mirrors the JSON shape in content/. Fields prefixed with `_` are NOT in the
+// file — they are injected by the server loading functions at build time.
 export interface Lecture {
   id: string
   date?: string           // ISO date string e.g. "2024-11-04"
@@ -34,8 +34,8 @@ export interface Lecture {
   ts?: number
   media_id?: string
   source?: Record<string, string | number | boolean | null>
-  audio_url?: string        // presigned R2 URL — consumed at publish time, stripped before S3 storage
-  // Runtime-injected by the server — not present in the S3 JSON:
+  audio_file?: string       // audio filename within the lecture's content dir (served from R2)
+  // Runtime-injected by the server — not present in the content JSON:
   _audioUrl?: string
   _bookNumber?: number
   _lectureDir?: string
@@ -44,7 +44,7 @@ export interface Lecture {
 export interface Book {
   number: number
   name: string
-  dir: string             // S3 directory name e.g. "book-1-lectures"
+  dir: string             // content/ directory name e.g. "book-1-lectures"
   lectures: Lecture[]
 }
 

@@ -14,8 +14,7 @@ const quizItems: StrictQuizItem[] = [
       "مِفْتَاح\nmiftāḥ — key",
       "مِيزَان\nmīzān — scale",
       "مِقَصّ\nmiqaṣṣ — scissors",
-      "مِبْرَد\nmibrad — file",
-      "مِكْنَسَة\nmiknasa — broom"
+      "مِبْرَد\nmibrad — file"
     ],
     "correctIndex": 0,
     "a": "مِفْتَاح: اسم آلة على وزن مِفْعَال.\nmiftāḥ — key: An instrument noun on the pattern مِفْعَال."
@@ -26,8 +25,7 @@ const quizItems: StrictQuizItem[] = [
       "فتحتُ البابَ بالمِفْتَاحِ.\nI opened the door with the key.",
       "وزنتُ التفاحَ بالمِيزَانِ.\nI weighed the apples with the scale.",
       "قطعتُ الورقةَ بالمِقَصِّ.\nI cut the paper with the scissors.",
-      "بَرَدْتُ القلمَ بالمِبْرَدِ.\nI sharpened the pencil with the file.",
-      "كنستُ الأرضَ بالمِكْنَسَةِ.\nI swept the floor with the broom."
+      "بَرَدْتُ القلمَ بالمِبْرَدِ.\nI sharpened the pencil with the file."
     ],
     "correctIndex": 0,
     "a": "فتحتُ البابَ بالمِفْتَاحِ.\nI opened the door with the key."
@@ -38,8 +36,7 @@ const quizItems: StrictQuizItem[] = [
       "مِفْتَاح\nmiftāḥ — key",
       "مِيزَان\nmīzān — scale",
       "مِقَصّ\nmiqaṣṣ — scissors",
-      "مِبْرَد\nmibrad — file",
-      "مِكْنَسَة\nmiknasa — broom"
+      "مِبْرَد\nmibrad — file"
     ],
     "correctIndex": 0,
     "a": "مِفْتَاح هو اللفظ المناسب في هذا المثال.\nmiftāḥ — key is the appropriate form in this example."
@@ -50,8 +47,7 @@ const quizItems: StrictQuizItem[] = [
       "اسم آلة على وزن مِفْعَال\nAn instrument noun on the pattern مِفْعَال",
       "اسم آلة على وزن مِفْعَال\nAn instrument noun on the pattern مِفْعَال",
       "اسم آلة على وزن مِفْعَل\nAn instrument noun on the pattern مِفْعَل",
-      "اسم آلة على وزن مِفْعَل\nAn instrument noun on the pattern مِفْعَل",
-      "اسم آلة على وزن مِفْعَلَة\nAn instrument noun on the pattern مِفْعَلَة"
+      "اسم آلة على وزن مِفْعَل\nAn instrument noun on the pattern مِفْعَل"
     ],
     "correctIndex": 0,
     "a": "مِفْتَاح: اسم آلة على وزن مِفْعَال.\nmiftāḥ — key: An instrument noun on the pattern مِفْعَال."
@@ -59,25 +55,23 @@ const quizItems: StrictQuizItem[] = [
   {
     "q": "ما اللفظ الذي يطابق الوصف الآتي: اسم آلة على وزن مِفْعَال؟\nWhich expression matches this description: An instrument noun on the pattern مِفْعَال?",
     "options": [
-      "مِفْتَاح\nmiftāḥ — key",
       "مِيزَان\nmīzān — scale",
+      "مِفْتَاح\nmiftāḥ — key",
       "مِقَصّ\nmiqaṣṣ — scissors",
-      "مِبْرَد\nmibrad — file",
-      "مِكْنَسَة\nmiknasa — broom"
+      "مِبْرَد\nmibrad — file"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "a": "مِيزَان: اسم آلة على وزن مِفْعَال.\nmīzān — scale: An instrument noun on the pattern مِفْعَال."
   },
   {
     "q": "أيُّ مثالٍ يستعمل مِيزَان؟\nWhich example uses mīzān — scale?",
     "options": [
-      "فتحتُ البابَ بالمِفْتَاحِ.\nI opened the door with the key.",
       "وزنتُ التفاحَ بالمِيزَانِ.\nI weighed the apples with the scale.",
+      "فتحتُ البابَ بالمِفْتَاحِ.\nI opened the door with the key.",
       "قطعتُ الورقةَ بالمِقَصِّ.\nI cut the paper with the scissors.",
-      "بَرَدْتُ القلمَ بالمِبْرَدِ.\nI sharpened the pencil with the file.",
-      "كنستُ الأرضَ بالمِكْنَسَةِ.\nI swept the floor with the broom."
+      "بَرَدْتُ القلمَ بالمِبْرَدِ.\nI sharpened the pencil with the file."
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "a": "وزنتُ التفاحَ بالمِيزَانِ.\nI weighed the apples with the scale."
   },
   {
@@ -86,8 +80,7 @@ const quizItems: StrictQuizItem[] = [
       "مِيزَان\nmīzān — scale",
       "مِقَصّ\nmiqaṣṣ — scissors",
       "مِبْرَد\nmibrad — file",
-      "مِكْنَسَة\nmiknasa — broom",
-      "مِفْتَاح\nmiftāḥ — key"
+      "مِكْنَسَة\nmiknasa — broom"
     ],
     "correctIndex": 0,
     "a": "مِيزَان هو اللفظ المناسب في هذا المثال.\nmīzān — scale is the appropriate form in this example."
@@ -98,34 +91,31 @@ const quizItems: StrictQuizItem[] = [
       "اسم آلة على وزن مِفْعَال\nAn instrument noun on the pattern مِفْعَال",
       "اسم آلة على وزن مِفْعَال\nAn instrument noun on the pattern مِفْعَال",
       "اسم آلة على وزن مِفْعَل\nAn instrument noun on the pattern مِفْعَل",
-      "اسم آلة على وزن مِفْعَل\nAn instrument noun on the pattern مِفْعَل",
-      "اسم آلة على وزن مِفْعَلَة\nAn instrument noun on the pattern مِفْعَلَة"
+      "اسم آلة على وزن مِفْعَل\nAn instrument noun on the pattern مِفْعَل"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "a": "مِيزَان: اسم آلة على وزن مِفْعَال.\nmīzān — scale: An instrument noun on the pattern مِفْعَال."
   },
   {
     "q": "ما اللفظ الذي يطابق الوصف الآتي: اسم آلة على وزن مِفْعَل؟\nWhich expression matches this description: An instrument noun on the pattern مِفْعَل?",
     "options": [
+      "مِقَصّ\nmiqaṣṣ — scissors",
       "مِفْتَاح\nmiftāḥ — key",
       "مِيزَان\nmīzān — scale",
-      "مِقَصّ\nmiqaṣṣ — scissors",
-      "مِبْرَد\nmibrad — file",
-      "مِكْنَسَة\nmiknasa — broom"
+      "مِبْرَد\nmibrad — file"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "a": "مِقَصّ: اسم آلة على وزن مِفْعَل.\nmiqaṣṣ — scissors: An instrument noun on the pattern مِفْعَل."
   },
   {
     "q": "أيُّ مثالٍ يستعمل مِقَصّ؟\nWhich example uses miqaṣṣ — scissors?",
     "options": [
+      "قطعتُ الورقةَ بالمِقَصِّ.\nI cut the paper with the scissors.",
       "فتحتُ البابَ بالمِفْتَاحِ.\nI opened the door with the key.",
       "وزنتُ التفاحَ بالمِيزَانِ.\nI weighed the apples with the scale.",
-      "قطعتُ الورقةَ بالمِقَصِّ.\nI cut the paper with the scissors.",
-      "بَرَدْتُ القلمَ بالمِبْرَدِ.\nI sharpened the pencil with the file.",
-      "كنستُ الأرضَ بالمِكْنَسَةِ.\nI swept the floor with the broom."
+      "بَرَدْتُ القلمَ بالمِبْرَدِ.\nI sharpened the pencil with the file."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "a": "قطعتُ الورقةَ بالمِقَصِّ.\nI cut the paper with the scissors."
   },
   {
@@ -134,8 +124,7 @@ const quizItems: StrictQuizItem[] = [
       "مِقَصّ\nmiqaṣṣ — scissors",
       "مِبْرَد\nmibrad — file",
       "مِكْنَسَة\nmiknasa — broom",
-      "مِفْتَاح\nmiftāḥ — key",
-      "مِيزَان\nmīzān — scale"
+      "مِفْتَاح\nmiftāḥ — key"
     ],
     "correctIndex": 0,
     "a": "مِقَصّ هو اللفظ المناسب في هذا المثال.\nmiqaṣṣ — scissors is the appropriate form in this example."
@@ -143,37 +132,34 @@ const quizItems: StrictQuizItem[] = [
   {
     "q": "ما التحليل الأنسب لـ مِقَصّ؟\nWhat is the best description of miqaṣṣ — scissors?",
     "options": [
+      "اسم آلة على وزن مِفْعَل\nAn instrument noun on the pattern مِفْعَل",
       "اسم آلة على وزن مِفْعَال\nAn instrument noun on the pattern مِفْعَال",
       "اسم آلة على وزن مِفْعَال\nAn instrument noun on the pattern مِفْعَال",
-      "اسم آلة على وزن مِفْعَل\nAn instrument noun on the pattern مِفْعَل",
-      "اسم آلة على وزن مِفْعَل\nAn instrument noun on the pattern مِفْعَل",
-      "اسم آلة على وزن مِفْعَلَة\nAn instrument noun on the pattern مِفْعَلَة"
+      "اسم آلة على وزن مِفْعَل\nAn instrument noun on the pattern مِفْعَل"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "a": "مِقَصّ: اسم آلة على وزن مِفْعَل.\nmiqaṣṣ — scissors: An instrument noun on the pattern مِفْعَل."
   },
   {
     "q": "ما اللفظ الذي يطابق الوصف الآتي: اسم آلة على وزن مِفْعَل؟\nWhich expression matches this description: An instrument noun on the pattern مِفْعَل?",
     "options": [
+      "مِبْرَد\nmibrad — file",
       "مِفْتَاح\nmiftāḥ — key",
       "مِيزَان\nmīzān — scale",
-      "مِقَصّ\nmiqaṣṣ — scissors",
-      "مِبْرَد\nmibrad — file",
-      "مِكْنَسَة\nmiknasa — broom"
+      "مِقَصّ\nmiqaṣṣ — scissors"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "a": "مِبْرَد: اسم آلة على وزن مِفْعَل.\nmibrad — file: An instrument noun on the pattern مِفْعَل."
   },
   {
     "q": "أيُّ مثالٍ يستعمل مِبْرَد؟\nWhich example uses mibrad — file?",
     "options": [
+      "بَرَدْتُ القلمَ بالمِبْرَدِ.\nI sharpened the pencil with the file.",
       "فتحتُ البابَ بالمِفْتَاحِ.\nI opened the door with the key.",
       "وزنتُ التفاحَ بالمِيزَانِ.\nI weighed the apples with the scale.",
-      "قطعتُ الورقةَ بالمِقَصِّ.\nI cut the paper with the scissors.",
-      "بَرَدْتُ القلمَ بالمِبْرَدِ.\nI sharpened the pencil with the file.",
-      "كنستُ الأرضَ بالمِكْنَسَةِ.\nI swept the floor with the broom."
+      "قطعتُ الورقةَ بالمِقَصِّ.\nI cut the paper with the scissors."
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "a": "بَرَدْتُ القلمَ بالمِبْرَدِ.\nI sharpened the pencil with the file."
   },
   {
@@ -182,8 +168,7 @@ const quizItems: StrictQuizItem[] = [
       "مِبْرَد\nmibrad — file",
       "مِكْنَسَة\nmiknasa — broom",
       "مِفْتَاح\nmiftāḥ — key",
-      "مِيزَان\nmīzān — scale",
-      "مِقَصّ\nmiqaṣṣ — scissors"
+      "مِيزَان\nmīzān — scale"
     ],
     "correctIndex": 0,
     "a": "مِبْرَد هو اللفظ المناسب في هذا المثال.\nmibrad — file is the appropriate form in this example."
@@ -191,37 +176,34 @@ const quizItems: StrictQuizItem[] = [
   {
     "q": "ما التحليل الأنسب لـ مِبْرَد؟\nWhat is the best description of mibrad — file?",
     "options": [
+      "اسم آلة على وزن مِفْعَل\nAn instrument noun on the pattern مِفْعَل",
       "اسم آلة على وزن مِفْعَال\nAn instrument noun on the pattern مِفْعَال",
       "اسم آلة على وزن مِفْعَال\nAn instrument noun on the pattern مِفْعَال",
-      "اسم آلة على وزن مِفْعَل\nAn instrument noun on the pattern مِفْعَل",
-      "اسم آلة على وزن مِفْعَل\nAn instrument noun on the pattern مِفْعَل",
-      "اسم آلة على وزن مِفْعَلَة\nAn instrument noun on the pattern مِفْعَلَة"
+      "اسم آلة على وزن مِفْعَل\nAn instrument noun on the pattern مِفْعَل"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "a": "مِبْرَد: اسم آلة على وزن مِفْعَل.\nmibrad — file: An instrument noun on the pattern مِفْعَل."
   },
   {
     "q": "ما اللفظ الذي يطابق الوصف الآتي: اسم آلة على وزن مِفْعَلَة؟\nWhich expression matches this description: An instrument noun on the pattern مِفْعَلَة?",
     "options": [
+      "مِكْنَسَة\nmiknasa — broom",
       "مِفْتَاح\nmiftāḥ — key",
       "مِيزَان\nmīzān — scale",
-      "مِقَصّ\nmiqaṣṣ — scissors",
-      "مِبْرَد\nmibrad — file",
-      "مِكْنَسَة\nmiknasa — broom"
+      "مِقَصّ\nmiqaṣṣ — scissors"
     ],
-    "correctIndex": 4,
+    "correctIndex": 0,
     "a": "مِكْنَسَة: اسم آلة على وزن مِفْعَلَة.\nmiknasa — broom: An instrument noun on the pattern مِفْعَلَة."
   },
   {
     "q": "أيُّ مثالٍ يستعمل مِكْنَسَة؟\nWhich example uses miknasa — broom?",
     "options": [
+      "كنستُ الأرضَ بالمِكْنَسَةِ.\nI swept the floor with the broom.",
       "فتحتُ البابَ بالمِفْتَاحِ.\nI opened the door with the key.",
       "وزنتُ التفاحَ بالمِيزَانِ.\nI weighed the apples with the scale.",
-      "قطعتُ الورقةَ بالمِقَصِّ.\nI cut the paper with the scissors.",
-      "بَرَدْتُ القلمَ بالمِبْرَدِ.\nI sharpened the pencil with the file.",
-      "كنستُ الأرضَ بالمِكْنَسَةِ.\nI swept the floor with the broom."
+      "قطعتُ الورقةَ بالمِقَصِّ.\nI cut the paper with the scissors."
     ],
-    "correctIndex": 4,
+    "correctIndex": 0,
     "a": "كنستُ الأرضَ بالمِكْنَسَةِ.\nI swept the floor with the broom."
   },
   {
@@ -230,8 +212,7 @@ const quizItems: StrictQuizItem[] = [
       "مِكْنَسَة\nmiknasa — broom",
       "مِفْتَاح\nmiftāḥ — key",
       "مِيزَان\nmīzān — scale",
-      "مِقَصّ\nmiqaṣṣ — scissors",
-      "مِبْرَد\nmibrad — file"
+      "مِقَصّ\nmiqaṣṣ — scissors"
     ],
     "correctIndex": 0,
     "a": "مِكْنَسَة هو اللفظ المناسب في هذا المثال.\nmiknasa — broom is the appropriate form in this example."
@@ -239,13 +220,12 @@ const quizItems: StrictQuizItem[] = [
   {
     "q": "ما التحليل الأنسب لـ مِكْنَسَة؟\nWhat is the best description of miknasa — broom?",
     "options": [
+      "اسم آلة على وزن مِفْعَلَة\nAn instrument noun on the pattern مِفْعَلَة",
       "اسم آلة على وزن مِفْعَال\nAn instrument noun on the pattern مِفْعَال",
       "اسم آلة على وزن مِفْعَال\nAn instrument noun on the pattern مِفْعَال",
-      "اسم آلة على وزن مِفْعَل\nAn instrument noun on the pattern مِفْعَل",
-      "اسم آلة على وزن مِفْعَل\nAn instrument noun on the pattern مِفْعَل",
-      "اسم آلة على وزن مِفْعَلَة\nAn instrument noun on the pattern مِفْعَلَة"
+      "اسم آلة على وزن مِفْعَل\nAn instrument noun on the pattern مِفْعَل"
     ],
-    "correctIndex": 4,
+    "correctIndex": 0,
     "a": "مِكْنَسَة: اسم آلة على وزن مِفْعَلَة.\nmiknasa — broom: An instrument noun on the pattern مِفْعَلَة."
   }
 ]
@@ -253,4 +233,8 @@ const quizItems: StrictQuizItem[] = [
 function TopicPage() {
   return <GrammarTopicPage arabic="اسم الآلة" title="Nouns of Instrument" description="Learn the common patterns for the instrument by which an action is done." items={quizItems} />
 }
+
+
+
+
 

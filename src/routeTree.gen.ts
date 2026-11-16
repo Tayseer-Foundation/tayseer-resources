@@ -17,8 +17,6 @@ import { Route as ArabicWithMuftiSaimIndexRouteImport } from './routes/arabic-wi
 import { Route as ChallengesVocabularyIndexRouteImport } from './routes/challenges/vocabulary/index'
 import { Route as ChallengesGrammarIndexRouteImport } from './routes/challenges/grammar/index'
 import { Route as ArabicWithMuftiSaimLectureLectureIdRouteImport } from './routes/arabic-with-mufti-saim/lecture.$lectureId'
-import { Route as ApiPublishSplatRouteImport } from './routes/api/publish/$'
-import { Route as ApiAuthSplatRouteImport } from './routes/api/auth/$'
 import { Route as ChallengesGrammarYesNoQuestionsIndexRouteImport } from './routes/challenges/grammar/yes-no-questions/index'
 import { Route as ChallengesGrammarWeakVerbsIndexRouteImport } from './routes/challenges/grammar/weak-verbs/index'
 import { Route as ChallengesGrammarVerbBasicsFaailMafoolIndexRouteImport } from './routes/challenges/grammar/verb-basics-faail-mafool/index'
@@ -131,16 +129,6 @@ const ArabicWithMuftiSaimLectureLectureIdRoute =
     path: '/arabic-with-mufti-saim/lecture/$lectureId',
     getParentRoute: () => rootRouteImport,
   } as any)
-const ApiPublishSplatRoute = ApiPublishSplatRouteImport.update({
-  id: '/api/publish/$',
-  path: '/api/publish/$',
-  getParentRoute: () => rootRouteImport,
-} as any)
-const ApiAuthSplatRoute = ApiAuthSplatRouteImport.update({
-  id: '/api/auth/$',
-  path: '/api/auth/$',
-  getParentRoute: () => rootRouteImport,
-} as any)
 const ChallengesGrammarYesNoQuestionsIndexRoute =
   ChallengesGrammarYesNoQuestionsIndexRouteImport.update({
     id: '/challenges/grammar/yes-no-questions/',
@@ -556,8 +544,6 @@ export interface FileRoutesByFullPath {
   '/arabic-with-mufti-saim/': typeof ArabicWithMuftiSaimIndexRoute
   '/challenges/': typeof ChallengesIndexRoute
   '/cognates/': typeof CognatesIndexRoute
-  '/api/auth/$': typeof ApiAuthSplatRoute
-  '/api/publish/$': typeof ApiPublishSplatRoute
   '/arabic-with-mufti-saim/lecture/$lectureId': typeof ArabicWithMuftiSaimLectureLectureIdRoute
   '/challenges/grammar/': typeof ChallengesGrammarIndexRoute
   '/challenges/vocabulary/': typeof ChallengesVocabularyIndexRoute
@@ -636,8 +622,6 @@ export interface FileRoutesByTo {
   '/arabic-with-mufti-saim': typeof ArabicWithMuftiSaimIndexRoute
   '/challenges': typeof ChallengesIndexRoute
   '/cognates': typeof CognatesIndexRoute
-  '/api/auth/$': typeof ApiAuthSplatRoute
-  '/api/publish/$': typeof ApiPublishSplatRoute
   '/arabic-with-mufti-saim/lecture/$lectureId': typeof ArabicWithMuftiSaimLectureLectureIdRoute
   '/challenges/grammar': typeof ChallengesGrammarIndexRoute
   '/challenges/vocabulary': typeof ChallengesVocabularyIndexRoute
@@ -717,8 +701,6 @@ export interface FileRoutesById {
   '/arabic-with-mufti-saim/': typeof ArabicWithMuftiSaimIndexRoute
   '/challenges/': typeof ChallengesIndexRoute
   '/cognates/': typeof CognatesIndexRoute
-  '/api/auth/$': typeof ApiAuthSplatRoute
-  '/api/publish/$': typeof ApiPublishSplatRoute
   '/arabic-with-mufti-saim/lecture/$lectureId': typeof ArabicWithMuftiSaimLectureLectureIdRoute
   '/challenges/grammar/': typeof ChallengesGrammarIndexRoute
   '/challenges/vocabulary/': typeof ChallengesVocabularyIndexRoute
@@ -799,8 +781,6 @@ export interface FileRouteTypes {
     | '/arabic-with-mufti-saim/'
     | '/challenges/'
     | '/cognates/'
-    | '/api/auth/$'
-    | '/api/publish/$'
     | '/arabic-with-mufti-saim/lecture/$lectureId'
     | '/challenges/grammar/'
     | '/challenges/vocabulary/'
@@ -879,8 +859,6 @@ export interface FileRouteTypes {
     | '/arabic-with-mufti-saim'
     | '/challenges'
     | '/cognates'
-    | '/api/auth/$'
-    | '/api/publish/$'
     | '/arabic-with-mufti-saim/lecture/$lectureId'
     | '/challenges/grammar'
     | '/challenges/vocabulary'
@@ -959,8 +937,6 @@ export interface FileRouteTypes {
     | '/arabic-with-mufti-saim/'
     | '/challenges/'
     | '/cognates/'
-    | '/api/auth/$'
-    | '/api/publish/$'
     | '/arabic-with-mufti-saim/lecture/$lectureId'
     | '/challenges/grammar/'
     | '/challenges/vocabulary/'
@@ -1040,8 +1016,6 @@ export interface RootRouteChildren {
   ArabicWithMuftiSaimIndexRoute: typeof ArabicWithMuftiSaimIndexRoute
   ChallengesIndexRoute: typeof ChallengesIndexRoute
   CognatesIndexRoute: typeof CognatesIndexRoute
-  ApiAuthSplatRoute: typeof ApiAuthSplatRoute
-  ApiPublishSplatRoute: typeof ApiPublishSplatRoute
   ArabicWithMuftiSaimLectureLectureIdRoute: typeof ArabicWithMuftiSaimLectureLectureIdRoute
   ChallengesGrammarIndexRoute: typeof ChallengesGrammarIndexRoute
   ChallengesVocabularyIndexRoute: typeof ChallengesVocabularyIndexRoute
@@ -1171,20 +1145,6 @@ declare module '@tanstack/react-router' {
       path: '/arabic-with-mufti-saim/lecture/$lectureId'
       fullPath: '/arabic-with-mufti-saim/lecture/$lectureId'
       preLoaderRoute: typeof ArabicWithMuftiSaimLectureLectureIdRouteImport
-      parentRoute: typeof rootRouteImport
-    }
-    '/api/publish/$': {
-      id: '/api/publish/$'
-      path: '/api/publish/$'
-      fullPath: '/api/publish/$'
-      preLoaderRoute: typeof ApiPublishSplatRouteImport
-      parentRoute: typeof rootRouteImport
-    }
-    '/api/auth/$': {
-      id: '/api/auth/$'
-      path: '/api/auth/$'
-      fullPath: '/api/auth/$'
-      preLoaderRoute: typeof ApiAuthSplatRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/challenges/grammar/yes-no-questions/': {
@@ -1672,8 +1632,6 @@ const rootRouteChildren: RootRouteChildren = {
   ArabicWithMuftiSaimIndexRoute: ArabicWithMuftiSaimIndexRoute,
   ChallengesIndexRoute: ChallengesIndexRoute,
   CognatesIndexRoute: CognatesIndexRoute,
-  ApiAuthSplatRoute: ApiAuthSplatRoute,
-  ApiPublishSplatRoute: ApiPublishSplatRoute,
   ArabicWithMuftiSaimLectureLectureIdRoute:
     ArabicWithMuftiSaimLectureLectureIdRoute,
   ChallengesGrammarIndexRoute: ChallengesGrammarIndexRoute,

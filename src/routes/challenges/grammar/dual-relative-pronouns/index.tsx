@@ -14,8 +14,7 @@ const quizItems: StrictQuizItem[] = [
       "اللَّذَانِ\nalladhāni — the two who (masculine nominative)",
       "اللَّذَيْنِ\nalladhayni — the two whom or of whom (masculine accusative/genitive)",
       "اللَّتَانِ\nallatāni — the two who (feminine nominative)",
-      "اللَّتَيْنِ\nallatayni — the two whom or of whom (feminine accusative/genitive)",
-      "الَّذِينَ\nalladhīna — those who (masculine plural)"
+      "اللَّتَيْنِ\nallatayni — the two whom or of whom (feminine accusative/genitive)"
     ],
     "correctIndex": 0,
     "a": "اللَّذَانِ: للمثنى المذكر في حالة الرفع.\nalladhāni — the two who (masculine nominative): For masculine dual in the nominative."
@@ -26,8 +25,7 @@ const quizItems: StrictQuizItem[] = [
       "حضرَ الطالبانِ اللَّذَانِ نجحا.\nThe two students who passed attended.",
       "رأيتُ الطالبينِ اللَّذَيْنِ نجحا.\nI saw the two students who passed.",
       "حضرتِ البنتانِ اللَّتَانِ نجحتا.\nThe two girls who passed attended.",
-      "رأيتُ البنتينِ اللَّتَيْنِ نجحتا.\nI saw the two girls who passed.",
-      "جاء الطلابُ الَّذِينَ نجحوا.\nThe students who passed came."
+      "رأيتُ البنتينِ اللَّتَيْنِ نجحتا.\nI saw the two girls who passed."
     ],
     "correctIndex": 0,
     "a": "حضرَ الطالبانِ اللَّذَانِ نجحا.\nThe two students who passed attended."
@@ -38,8 +36,7 @@ const quizItems: StrictQuizItem[] = [
       "اللَّذَانِ\nalladhāni — the two who (masculine nominative)",
       "اللَّذَيْنِ\nalladhayni — the two whom or of whom (masculine accusative/genitive)",
       "اللَّتَانِ\nallatāni — the two who (feminine nominative)",
-      "اللَّتَيْنِ\nallatayni — the two whom or of whom (feminine accusative/genitive)",
-      "الَّذِينَ\nalladhīna — those who (masculine plural)"
+      "اللَّتَيْنِ\nallatayni — the two whom or of whom (feminine accusative/genitive)"
     ],
     "correctIndex": 0,
     "a": "اللَّذَانِ هو اللفظ المناسب في هذا المثال.\nalladhāni — the two who (masculine nominative) is the appropriate form in this example."
@@ -50,8 +47,7 @@ const quizItems: StrictQuizItem[] = [
       "للمثنى المذكر في حالة الرفع\nFor masculine dual in the nominative",
       "للمثنى المذكر في النصب والجر\nFor masculine dual in the accusative and genitive",
       "للمثنى المؤنث في حالة الرفع\nFor feminine dual in the nominative",
-      "للمثنى المؤنث في النصب والجر\nFor feminine dual in the accusative and genitive",
-      "لجمع المذكر\nFor masculine plural"
+      "للمثنى المؤنث في النصب والجر\nFor feminine dual in the accusative and genitive"
     ],
     "correctIndex": 0,
     "a": "اللَّذَانِ: للمثنى المذكر في حالة الرفع.\nalladhāni — the two who (masculine nominative): For masculine dual in the nominative."
@@ -59,25 +55,23 @@ const quizItems: StrictQuizItem[] = [
   {
     "q": "ما اللفظ الذي يطابق الوصف الآتي: للمثنى المذكر في النصب والجر؟\nWhich expression matches this description: For masculine dual in the accusative and genitive?",
     "options": [
-      "اللَّذَانِ\nalladhāni — the two who (masculine nominative)",
       "اللَّذَيْنِ\nalladhayni — the two whom or of whom (masculine accusative/genitive)",
+      "اللَّذَانِ\nalladhāni — the two who (masculine nominative)",
       "اللَّتَانِ\nallatāni — the two who (feminine nominative)",
-      "اللَّتَيْنِ\nallatayni — the two whom or of whom (feminine accusative/genitive)",
-      "الَّذِينَ\nalladhīna — those who (masculine plural)"
+      "اللَّتَيْنِ\nallatayni — the two whom or of whom (feminine accusative/genitive)"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "a": "اللَّذَيْنِ: للمثنى المذكر في النصب والجر.\nalladhayni — the two whom or of whom (masculine accusative/genitive): For masculine dual in the accusative and genitive."
   },
   {
     "q": "أيُّ مثالٍ يستعمل اللَّذَيْنِ؟\nWhich example uses alladhayni — the two whom or of whom (masculine accusative/genitive)?",
     "options": [
-      "حضرَ الطالبانِ اللَّذَانِ نجحا.\nThe two students who passed attended.",
       "رأيتُ الطالبينِ اللَّذَيْنِ نجحا.\nI saw the two students who passed.",
+      "حضرَ الطالبانِ اللَّذَانِ نجحا.\nThe two students who passed attended.",
       "حضرتِ البنتانِ اللَّتَانِ نجحتا.\nThe two girls who passed attended.",
-      "رأيتُ البنتينِ اللَّتَيْنِ نجحتا.\nI saw the two girls who passed.",
-      "جاء الطلابُ الَّذِينَ نجحوا.\nThe students who passed came."
+      "رأيتُ البنتينِ اللَّتَيْنِ نجحتا.\nI saw the two girls who passed."
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "a": "رأيتُ الطالبينِ اللَّذَيْنِ نجحا.\nI saw the two students who passed."
   },
   {
@@ -86,8 +80,7 @@ const quizItems: StrictQuizItem[] = [
       "اللَّذَيْنِ\nalladhayni — the two whom or of whom (masculine accusative/genitive)",
       "اللَّتَانِ\nallatāni — the two who (feminine nominative)",
       "اللَّتَيْنِ\nallatayni — the two whom or of whom (feminine accusative/genitive)",
-      "الَّذِينَ\nalladhīna — those who (masculine plural)",
-      "اللَّذَانِ\nalladhāni — the two who (masculine nominative)"
+      "الَّذِينَ\nalladhīna — those who (masculine plural)"
     ],
     "correctIndex": 0,
     "a": "اللَّذَيْنِ هو اللفظ المناسب في هذا المثال.\nalladhayni — the two whom or of whom (masculine accusative/genitive) is the appropriate form in this example."
@@ -95,37 +88,34 @@ const quizItems: StrictQuizItem[] = [
   {
     "q": "ما التحليل الأنسب لـ اللَّذَيْنِ؟\nWhat is the best description of alladhayni — the two whom or of whom (masculine accusative/genitive)?",
     "options": [
-      "للمثنى المذكر في حالة الرفع\nFor masculine dual in the nominative",
       "للمثنى المذكر في النصب والجر\nFor masculine dual in the accusative and genitive",
+      "للمثنى المذكر في حالة الرفع\nFor masculine dual in the nominative",
       "للمثنى المؤنث في حالة الرفع\nFor feminine dual in the nominative",
-      "للمثنى المؤنث في النصب والجر\nFor feminine dual in the accusative and genitive",
-      "لجمع المذكر\nFor masculine plural"
+      "للمثنى المؤنث في النصب والجر\nFor feminine dual in the accusative and genitive"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "a": "اللَّذَيْنِ: للمثنى المذكر في النصب والجر.\nalladhayni — the two whom or of whom (masculine accusative/genitive): For masculine dual in the accusative and genitive."
   },
   {
     "q": "ما اللفظ الذي يطابق الوصف الآتي: للمثنى المؤنث في حالة الرفع؟\nWhich expression matches this description: For feminine dual in the nominative?",
     "options": [
+      "اللَّتَانِ\nallatāni — the two who (feminine nominative)",
       "اللَّذَانِ\nalladhāni — the two who (masculine nominative)",
       "اللَّذَيْنِ\nalladhayni — the two whom or of whom (masculine accusative/genitive)",
-      "اللَّتَانِ\nallatāni — the two who (feminine nominative)",
-      "اللَّتَيْنِ\nallatayni — the two whom or of whom (feminine accusative/genitive)",
-      "الَّذِينَ\nalladhīna — those who (masculine plural)"
+      "اللَّتَيْنِ\nallatayni — the two whom or of whom (feminine accusative/genitive)"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "a": "اللَّتَانِ: للمثنى المؤنث في حالة الرفع.\nallatāni — the two who (feminine nominative): For feminine dual in the nominative."
   },
   {
     "q": "أيُّ مثالٍ يستعمل اللَّتَانِ؟\nWhich example uses allatāni — the two who (feminine nominative)?",
     "options": [
+      "حضرتِ البنتانِ اللَّتَانِ نجحتا.\nThe two girls who passed attended.",
       "حضرَ الطالبانِ اللَّذَانِ نجحا.\nThe two students who passed attended.",
       "رأيتُ الطالبينِ اللَّذَيْنِ نجحا.\nI saw the two students who passed.",
-      "حضرتِ البنتانِ اللَّتَانِ نجحتا.\nThe two girls who passed attended.",
-      "رأيتُ البنتينِ اللَّتَيْنِ نجحتا.\nI saw the two girls who passed.",
-      "جاء الطلابُ الَّذِينَ نجحوا.\nThe students who passed came."
+      "رأيتُ البنتينِ اللَّتَيْنِ نجحتا.\nI saw the two girls who passed."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "a": "حضرتِ البنتانِ اللَّتَانِ نجحتا.\nThe two girls who passed attended."
   },
   {
@@ -134,8 +124,7 @@ const quizItems: StrictQuizItem[] = [
       "اللَّتَانِ\nallatāni — the two who (feminine nominative)",
       "اللَّتَيْنِ\nallatayni — the two whom or of whom (feminine accusative/genitive)",
       "الَّذِينَ\nalladhīna — those who (masculine plural)",
-      "اللَّذَانِ\nalladhāni — the two who (masculine nominative)",
-      "اللَّذَيْنِ\nalladhayni — the two whom or of whom (masculine accusative/genitive)"
+      "اللَّذَانِ\nalladhāni — the two who (masculine nominative)"
     ],
     "correctIndex": 0,
     "a": "اللَّتَانِ هو اللفظ المناسب في هذا المثال.\nallatāni — the two who (feminine nominative) is the appropriate form in this example."
@@ -143,37 +132,34 @@ const quizItems: StrictQuizItem[] = [
   {
     "q": "ما التحليل الأنسب لـ اللَّتَانِ؟\nWhat is the best description of allatāni — the two who (feminine nominative)?",
     "options": [
+      "للمثنى المؤنث في حالة الرفع\nFor feminine dual in the nominative",
       "للمثنى المذكر في حالة الرفع\nFor masculine dual in the nominative",
       "للمثنى المذكر في النصب والجر\nFor masculine dual in the accusative and genitive",
-      "للمثنى المؤنث في حالة الرفع\nFor feminine dual in the nominative",
-      "للمثنى المؤنث في النصب والجر\nFor feminine dual in the accusative and genitive",
-      "لجمع المذكر\nFor masculine plural"
+      "للمثنى المؤنث في النصب والجر\nFor feminine dual in the accusative and genitive"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "a": "اللَّتَانِ: للمثنى المؤنث في حالة الرفع.\nallatāni — the two who (feminine nominative): For feminine dual in the nominative."
   },
   {
     "q": "ما اللفظ الذي يطابق الوصف الآتي: للمثنى المؤنث في النصب والجر؟\nWhich expression matches this description: For feminine dual in the accusative and genitive?",
     "options": [
+      "اللَّتَيْنِ\nallatayni — the two whom or of whom (feminine accusative/genitive)",
       "اللَّذَانِ\nalladhāni — the two who (masculine nominative)",
       "اللَّذَيْنِ\nalladhayni — the two whom or of whom (masculine accusative/genitive)",
-      "اللَّتَانِ\nallatāni — the two who (feminine nominative)",
-      "اللَّتَيْنِ\nallatayni — the two whom or of whom (feminine accusative/genitive)",
-      "الَّذِينَ\nalladhīna — those who (masculine plural)"
+      "اللَّتَانِ\nallatāni — the two who (feminine nominative)"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "a": "اللَّتَيْنِ: للمثنى المؤنث في النصب والجر.\nallatayni — the two whom or of whom (feminine accusative/genitive): For feminine dual in the accusative and genitive."
   },
   {
     "q": "أيُّ مثالٍ يستعمل اللَّتَيْنِ؟\nWhich example uses allatayni — the two whom or of whom (feminine accusative/genitive)?",
     "options": [
+      "رأيتُ البنتينِ اللَّتَيْنِ نجحتا.\nI saw the two girls who passed.",
       "حضرَ الطالبانِ اللَّذَانِ نجحا.\nThe two students who passed attended.",
       "رأيتُ الطالبينِ اللَّذَيْنِ نجحا.\nI saw the two students who passed.",
-      "حضرتِ البنتانِ اللَّتَانِ نجحتا.\nThe two girls who passed attended.",
-      "رأيتُ البنتينِ اللَّتَيْنِ نجحتا.\nI saw the two girls who passed.",
-      "جاء الطلابُ الَّذِينَ نجحوا.\nThe students who passed came."
+      "حضرتِ البنتانِ اللَّتَانِ نجحتا.\nThe two girls who passed attended."
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "a": "رأيتُ البنتينِ اللَّتَيْنِ نجحتا.\nI saw the two girls who passed."
   },
   {
@@ -182,8 +168,7 @@ const quizItems: StrictQuizItem[] = [
       "اللَّتَيْنِ\nallatayni — the two whom or of whom (feminine accusative/genitive)",
       "الَّذِينَ\nalladhīna — those who (masculine plural)",
       "اللَّذَانِ\nalladhāni — the two who (masculine nominative)",
-      "اللَّذَيْنِ\nalladhayni — the two whom or of whom (masculine accusative/genitive)",
-      "اللَّتَانِ\nallatāni — the two who (feminine nominative)"
+      "اللَّذَيْنِ\nalladhayni — the two whom or of whom (masculine accusative/genitive)"
     ],
     "correctIndex": 0,
     "a": "اللَّتَيْنِ هو اللفظ المناسب في هذا المثال.\nallatayni — the two whom or of whom (feminine accusative/genitive) is the appropriate form in this example."
@@ -191,37 +176,34 @@ const quizItems: StrictQuizItem[] = [
   {
     "q": "ما التحليل الأنسب لـ اللَّتَيْنِ؟\nWhat is the best description of allatayni — the two whom or of whom (feminine accusative/genitive)?",
     "options": [
+      "للمثنى المؤنث في النصب والجر\nFor feminine dual in the accusative and genitive",
       "للمثنى المذكر في حالة الرفع\nFor masculine dual in the nominative",
       "للمثنى المذكر في النصب والجر\nFor masculine dual in the accusative and genitive",
-      "للمثنى المؤنث في حالة الرفع\nFor feminine dual in the nominative",
-      "للمثنى المؤنث في النصب والجر\nFor feminine dual in the accusative and genitive",
-      "لجمع المذكر\nFor masculine plural"
+      "للمثنى المؤنث في حالة الرفع\nFor feminine dual in the nominative"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "a": "اللَّتَيْنِ: للمثنى المؤنث في النصب والجر.\nallatayni — the two whom or of whom (feminine accusative/genitive): For feminine dual in the accusative and genitive."
   },
   {
     "q": "ما اللفظ الذي يطابق الوصف الآتي: لجمع المذكر؟\nWhich expression matches this description: For masculine plural?",
     "options": [
+      "الَّذِينَ\nalladhīna — those who (masculine plural)",
       "اللَّذَانِ\nalladhāni — the two who (masculine nominative)",
       "اللَّذَيْنِ\nalladhayni — the two whom or of whom (masculine accusative/genitive)",
-      "اللَّتَانِ\nallatāni — the two who (feminine nominative)",
-      "اللَّتَيْنِ\nallatayni — the two whom or of whom (feminine accusative/genitive)",
-      "الَّذِينَ\nalladhīna — those who (masculine plural)"
+      "اللَّتَانِ\nallatāni — the two who (feminine nominative)"
     ],
-    "correctIndex": 4,
+    "correctIndex": 0,
     "a": "الَّذِينَ: لجمع المذكر.\nalladhīna — those who (masculine plural): For masculine plural."
   },
   {
     "q": "أيُّ مثالٍ يستعمل الَّذِينَ؟\nWhich example uses alladhīna — those who (masculine plural)?",
     "options": [
+      "جاء الطلابُ الَّذِينَ نجحوا.\nThe students who passed came.",
       "حضرَ الطالبانِ اللَّذَانِ نجحا.\nThe two students who passed attended.",
       "رأيتُ الطالبينِ اللَّذَيْنِ نجحا.\nI saw the two students who passed.",
-      "حضرتِ البنتانِ اللَّتَانِ نجحتا.\nThe two girls who passed attended.",
-      "رأيتُ البنتينِ اللَّتَيْنِ نجحتا.\nI saw the two girls who passed.",
-      "جاء الطلابُ الَّذِينَ نجحوا.\nThe students who passed came."
+      "حضرتِ البنتانِ اللَّتَانِ نجحتا.\nThe two girls who passed attended."
     ],
-    "correctIndex": 4,
+    "correctIndex": 0,
     "a": "جاء الطلابُ الَّذِينَ نجحوا.\nThe students who passed came."
   },
   {
@@ -230,8 +212,7 @@ const quizItems: StrictQuizItem[] = [
       "الَّذِينَ\nalladhīna — those who (masculine plural)",
       "اللَّذَانِ\nalladhāni — the two who (masculine nominative)",
       "اللَّذَيْنِ\nalladhayni — the two whom or of whom (masculine accusative/genitive)",
-      "اللَّتَانِ\nallatāni — the two who (feminine nominative)",
-      "اللَّتَيْنِ\nallatayni — the two whom or of whom (feminine accusative/genitive)"
+      "اللَّتَانِ\nallatāni — the two who (feminine nominative)"
     ],
     "correctIndex": 0,
     "a": "الَّذِينَ هو اللفظ المناسب في هذا المثال.\nalladhīna — those who (masculine plural) is the appropriate form in this example."
@@ -239,13 +220,12 @@ const quizItems: StrictQuizItem[] = [
   {
     "q": "ما التحليل الأنسب لـ الَّذِينَ؟\nWhat is the best description of alladhīna — those who (masculine plural)?",
     "options": [
+      "لجمع المذكر\nFor masculine plural",
       "للمثنى المذكر في حالة الرفع\nFor masculine dual in the nominative",
       "للمثنى المذكر في النصب والجر\nFor masculine dual in the accusative and genitive",
-      "للمثنى المؤنث في حالة الرفع\nFor feminine dual in the nominative",
-      "للمثنى المؤنث في النصب والجر\nFor feminine dual in the accusative and genitive",
-      "لجمع المذكر\nFor masculine plural"
+      "للمثنى المؤنث في حالة الرفع\nFor feminine dual in the nominative"
     ],
-    "correctIndex": 4,
+    "correctIndex": 0,
     "a": "الَّذِينَ: لجمع المذكر.\nalladhīna — those who (masculine plural): For masculine plural."
   }
 ]
@@ -253,4 +233,8 @@ const quizItems: StrictQuizItem[] = [
 function TopicPage() {
   return <GrammarTopicPage arabic="الأسماء الموصولة للمثنى" title="Dual Relative Pronouns" description="Choose the dual relative pronoun that matches gender and case." items={quizItems} />
 }
+
+
+
+
 

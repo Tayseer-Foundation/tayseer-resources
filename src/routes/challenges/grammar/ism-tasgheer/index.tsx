@@ -14,8 +14,7 @@ const quizItems: StrictQuizItem[] = [
       "جُبَيْل\njubayl — small mountain",
       "رُجَيْل\nrujayl — little man",
       "وُلَيْد\nwulayd — little boy",
-      "كُتَيِّب\nkutayyib — small book or booklet",
-      "نُهَيْر\nnuhayr — small river"
+      "كُتَيِّب\nkutayyib — small book or booklet"
     ],
     "correctIndex": 0,
     "a": "جُبَيْل: تصغير جَبَل على وزن فُعَيْل.\njubayl — small mountain: The diminutive of جَبَل on the pattern فُعَيْل."
@@ -26,8 +25,7 @@ const quizItems: StrictQuizItem[] = [
       "رأيتُ جُبَيْلاً بعيداً.\nI saw a small mountain in the distance.",
       "جاء رُجَيْلٌ إلى السوقِ.\nA little man came to the market.",
       "لعبَ وُلَيْدٌ في الحديقةِ.\nA little boy played in the garden.",
-      "قرأتُ كُتَيِّباً نافعاً.\nI read a useful booklet.",
-      "مررنا بِنُهَيْرٍ صافٍ.\nWe passed by a clear little river."
+      "قرأتُ كُتَيِّباً نافعاً.\nI read a useful booklet."
     ],
     "correctIndex": 0,
     "a": "رأيتُ جُبَيْلاً بعيداً.\nI saw a small mountain in the distance."
@@ -38,8 +36,7 @@ const quizItems: StrictQuizItem[] = [
       "جُبَيْل\njubayl — small mountain",
       "رُجَيْل\nrujayl — little man",
       "وُلَيْد\nwulayd — little boy",
-      "كُتَيِّب\nkutayyib — small book or booklet",
-      "نُهَيْر\nnuhayr — small river"
+      "كُتَيِّب\nkutayyib — small book or booklet"
     ],
     "correctIndex": 0,
     "a": "جُبَيْل هو اللفظ المناسب في هذا المثال.\njubayl — small mountain is the appropriate form in this example."
@@ -50,8 +47,7 @@ const quizItems: StrictQuizItem[] = [
       "تصغير جَبَل على وزن فُعَيْل\nThe diminutive of جَبَل on the pattern فُعَيْل",
       "تصغير رَجُل على وزن فُعَيْل\nThe diminutive of رَجُل on the pattern فُعَيْل",
       "تصغير وَلَد على وزن فُعَيْل\nThe diminutive of وَلَد on the pattern فُعَيْل",
-      "تصغير كِتَاب على وزن فُعَيْل\nThe diminutive of كِتَاب on the pattern فُعَيْل",
-      "تصغير نَهْر على وزن فُعَيْل\nThe diminutive of نَهْر on the pattern فُعَيْل"
+      "تصغير كِتَاب على وزن فُعَيْل\nThe diminutive of كِتَاب on the pattern فُعَيْل"
     ],
     "correctIndex": 0,
     "a": "جُبَيْل: تصغير جَبَل على وزن فُعَيْل.\njubayl — small mountain: The diminutive of جَبَل on the pattern فُعَيْل."
@@ -59,25 +55,23 @@ const quizItems: StrictQuizItem[] = [
   {
     "q": "ما اللفظ الذي يطابق الوصف الآتي: تصغير رَجُل على وزن فُعَيْل؟\nWhich expression matches this description: The diminutive of رَجُل on the pattern فُعَيْل?",
     "options": [
-      "جُبَيْل\njubayl — small mountain",
       "رُجَيْل\nrujayl — little man",
+      "جُبَيْل\njubayl — small mountain",
       "وُلَيْد\nwulayd — little boy",
-      "كُتَيِّب\nkutayyib — small book or booklet",
-      "نُهَيْر\nnuhayr — small river"
+      "كُتَيِّب\nkutayyib — small book or booklet"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "a": "رُجَيْل: تصغير رَجُل على وزن فُعَيْل.\nrujayl — little man: The diminutive of رَجُل on the pattern فُعَيْل."
   },
   {
     "q": "أيُّ مثالٍ يستعمل رُجَيْل؟\nWhich example uses rujayl — little man?",
     "options": [
-      "رأيتُ جُبَيْلاً بعيداً.\nI saw a small mountain in the distance.",
       "جاء رُجَيْلٌ إلى السوقِ.\nA little man came to the market.",
+      "رأيتُ جُبَيْلاً بعيداً.\nI saw a small mountain in the distance.",
       "لعبَ وُلَيْدٌ في الحديقةِ.\nA little boy played in the garden.",
-      "قرأتُ كُتَيِّباً نافعاً.\nI read a useful booklet.",
-      "مررنا بِنُهَيْرٍ صافٍ.\nWe passed by a clear little river."
+      "قرأتُ كُتَيِّباً نافعاً.\nI read a useful booklet."
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "a": "جاء رُجَيْلٌ إلى السوقِ.\nA little man came to the market."
   },
   {
@@ -86,8 +80,7 @@ const quizItems: StrictQuizItem[] = [
       "رُجَيْل\nrujayl — little man",
       "وُلَيْد\nwulayd — little boy",
       "كُتَيِّب\nkutayyib — small book or booklet",
-      "نُهَيْر\nnuhayr — small river",
-      "جُبَيْل\njubayl — small mountain"
+      "نُهَيْر\nnuhayr — small river"
     ],
     "correctIndex": 0,
     "a": "رُجَيْل هو اللفظ المناسب في هذا المثال.\nrujayl — little man is the appropriate form in this example."
@@ -95,37 +88,34 @@ const quizItems: StrictQuizItem[] = [
   {
     "q": "ما التحليل الأنسب لـ رُجَيْل؟\nWhat is the best description of rujayl — little man?",
     "options": [
-      "تصغير جَبَل على وزن فُعَيْل\nThe diminutive of جَبَل on the pattern فُعَيْل",
       "تصغير رَجُل على وزن فُعَيْل\nThe diminutive of رَجُل on the pattern فُعَيْل",
+      "تصغير جَبَل على وزن فُعَيْل\nThe diminutive of جَبَل on the pattern فُعَيْل",
       "تصغير وَلَد على وزن فُعَيْل\nThe diminutive of وَلَد on the pattern فُعَيْل",
-      "تصغير كِتَاب على وزن فُعَيْل\nThe diminutive of كِتَاب on the pattern فُعَيْل",
-      "تصغير نَهْر على وزن فُعَيْل\nThe diminutive of نَهْر on the pattern فُعَيْل"
+      "تصغير كِتَاب على وزن فُعَيْل\nThe diminutive of كِتَاب on the pattern فُعَيْل"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "a": "رُجَيْل: تصغير رَجُل على وزن فُعَيْل.\nrujayl — little man: The diminutive of رَجُل on the pattern فُعَيْل."
   },
   {
     "q": "ما اللفظ الذي يطابق الوصف الآتي: تصغير وَلَد على وزن فُعَيْل؟\nWhich expression matches this description: The diminutive of وَلَد on the pattern فُعَيْل?",
     "options": [
+      "وُلَيْد\nwulayd — little boy",
       "جُبَيْل\njubayl — small mountain",
       "رُجَيْل\nrujayl — little man",
-      "وُلَيْد\nwulayd — little boy",
-      "كُتَيِّب\nkutayyib — small book or booklet",
-      "نُهَيْر\nnuhayr — small river"
+      "كُتَيِّب\nkutayyib — small book or booklet"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "a": "وُلَيْد: تصغير وَلَد على وزن فُعَيْل.\nwulayd — little boy: The diminutive of وَلَد on the pattern فُعَيْل."
   },
   {
     "q": "أيُّ مثالٍ يستعمل وُلَيْد؟\nWhich example uses wulayd — little boy?",
     "options": [
+      "لعبَ وُلَيْدٌ في الحديقةِ.\nA little boy played in the garden.",
       "رأيتُ جُبَيْلاً بعيداً.\nI saw a small mountain in the distance.",
       "جاء رُجَيْلٌ إلى السوقِ.\nA little man came to the market.",
-      "لعبَ وُلَيْدٌ في الحديقةِ.\nA little boy played in the garden.",
-      "قرأتُ كُتَيِّباً نافعاً.\nI read a useful booklet.",
-      "مررنا بِنُهَيْرٍ صافٍ.\nWe passed by a clear little river."
+      "قرأتُ كُتَيِّباً نافعاً.\nI read a useful booklet."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "a": "لعبَ وُلَيْدٌ في الحديقةِ.\nA little boy played in the garden."
   },
   {
@@ -134,8 +124,7 @@ const quizItems: StrictQuizItem[] = [
       "وُلَيْد\nwulayd — little boy",
       "كُتَيِّب\nkutayyib — small book or booklet",
       "نُهَيْر\nnuhayr — small river",
-      "جُبَيْل\njubayl — small mountain",
-      "رُجَيْل\nrujayl — little man"
+      "جُبَيْل\njubayl — small mountain"
     ],
     "correctIndex": 0,
     "a": "وُلَيْد هو اللفظ المناسب في هذا المثال.\nwulayd — little boy is the appropriate form in this example."
@@ -143,37 +132,34 @@ const quizItems: StrictQuizItem[] = [
   {
     "q": "ما التحليل الأنسب لـ وُلَيْد؟\nWhat is the best description of wulayd — little boy?",
     "options": [
+      "تصغير وَلَد على وزن فُعَيْل\nThe diminutive of وَلَد on the pattern فُعَيْل",
       "تصغير جَبَل على وزن فُعَيْل\nThe diminutive of جَبَل on the pattern فُعَيْل",
       "تصغير رَجُل على وزن فُعَيْل\nThe diminutive of رَجُل on the pattern فُعَيْل",
-      "تصغير وَلَد على وزن فُعَيْل\nThe diminutive of وَلَد on the pattern فُعَيْل",
-      "تصغير كِتَاب على وزن فُعَيْل\nThe diminutive of كِتَاب on the pattern فُعَيْل",
-      "تصغير نَهْر على وزن فُعَيْل\nThe diminutive of نَهْر on the pattern فُعَيْل"
+      "تصغير كِتَاب على وزن فُعَيْل\nThe diminutive of كِتَاب on the pattern فُعَيْل"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "a": "وُلَيْد: تصغير وَلَد على وزن فُعَيْل.\nwulayd — little boy: The diminutive of وَلَد on the pattern فُعَيْل."
   },
   {
     "q": "ما اللفظ الذي يطابق الوصف الآتي: تصغير كِتَاب على وزن فُعَيْل؟\nWhich expression matches this description: The diminutive of كِتَاب on the pattern فُعَيْل?",
     "options": [
+      "كُتَيِّب\nkutayyib — small book or booklet",
       "جُبَيْل\njubayl — small mountain",
       "رُجَيْل\nrujayl — little man",
-      "وُلَيْد\nwulayd — little boy",
-      "كُتَيِّب\nkutayyib — small book or booklet",
-      "نُهَيْر\nnuhayr — small river"
+      "وُلَيْد\nwulayd — little boy"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "a": "كُتَيِّب: تصغير كِتَاب على وزن فُعَيْل.\nkutayyib — small book or booklet: The diminutive of كِتَاب on the pattern فُعَيْل."
   },
   {
     "q": "أيُّ مثالٍ يستعمل كُتَيِّب؟\nWhich example uses kutayyib — small book or booklet?",
     "options": [
+      "قرأتُ كُتَيِّباً نافعاً.\nI read a useful booklet.",
       "رأيتُ جُبَيْلاً بعيداً.\nI saw a small mountain in the distance.",
       "جاء رُجَيْلٌ إلى السوقِ.\nA little man came to the market.",
-      "لعبَ وُلَيْدٌ في الحديقةِ.\nA little boy played in the garden.",
-      "قرأتُ كُتَيِّباً نافعاً.\nI read a useful booklet.",
-      "مررنا بِنُهَيْرٍ صافٍ.\nWe passed by a clear little river."
+      "لعبَ وُلَيْدٌ في الحديقةِ.\nA little boy played in the garden."
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "a": "قرأتُ كُتَيِّباً نافعاً.\nI read a useful booklet."
   },
   {
@@ -182,8 +168,7 @@ const quizItems: StrictQuizItem[] = [
       "كُتَيِّب\nkutayyib — small book or booklet",
       "نُهَيْر\nnuhayr — small river",
       "جُبَيْل\njubayl — small mountain",
-      "رُجَيْل\nrujayl — little man",
-      "وُلَيْد\nwulayd — little boy"
+      "رُجَيْل\nrujayl — little man"
     ],
     "correctIndex": 0,
     "a": "كُتَيِّب هو اللفظ المناسب في هذا المثال.\nkutayyib — small book or booklet is the appropriate form in this example."
@@ -191,37 +176,34 @@ const quizItems: StrictQuizItem[] = [
   {
     "q": "ما التحليل الأنسب لـ كُتَيِّب؟\nWhat is the best description of kutayyib — small book or booklet?",
     "options": [
+      "تصغير كِتَاب على وزن فُعَيْل\nThe diminutive of كِتَاب on the pattern فُعَيْل",
       "تصغير جَبَل على وزن فُعَيْل\nThe diminutive of جَبَل on the pattern فُعَيْل",
       "تصغير رَجُل على وزن فُعَيْل\nThe diminutive of رَجُل on the pattern فُعَيْل",
-      "تصغير وَلَد على وزن فُعَيْل\nThe diminutive of وَلَد on the pattern فُعَيْل",
-      "تصغير كِتَاب على وزن فُعَيْل\nThe diminutive of كِتَاب on the pattern فُعَيْل",
-      "تصغير نَهْر على وزن فُعَيْل\nThe diminutive of نَهْر on the pattern فُعَيْل"
+      "تصغير وَلَد على وزن فُعَيْل\nThe diminutive of وَلَد on the pattern فُعَيْل"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "a": "كُتَيِّب: تصغير كِتَاب على وزن فُعَيْل.\nkutayyib — small book or booklet: The diminutive of كِتَاب on the pattern فُعَيْل."
   },
   {
     "q": "ما اللفظ الذي يطابق الوصف الآتي: تصغير نَهْر على وزن فُعَيْل؟\nWhich expression matches this description: The diminutive of نَهْر on the pattern فُعَيْل?",
     "options": [
+      "نُهَيْر\nnuhayr — small river",
       "جُبَيْل\njubayl — small mountain",
       "رُجَيْل\nrujayl — little man",
-      "وُلَيْد\nwulayd — little boy",
-      "كُتَيِّب\nkutayyib — small book or booklet",
-      "نُهَيْر\nnuhayr — small river"
+      "وُلَيْد\nwulayd — little boy"
     ],
-    "correctIndex": 4,
+    "correctIndex": 0,
     "a": "نُهَيْر: تصغير نَهْر على وزن فُعَيْل.\nnuhayr — small river: The diminutive of نَهْر on the pattern فُعَيْل."
   },
   {
     "q": "أيُّ مثالٍ يستعمل نُهَيْر؟\nWhich example uses nuhayr — small river?",
     "options": [
+      "مررنا بِنُهَيْرٍ صافٍ.\nWe passed by a clear little river.",
       "رأيتُ جُبَيْلاً بعيداً.\nI saw a small mountain in the distance.",
       "جاء رُجَيْلٌ إلى السوقِ.\nA little man came to the market.",
-      "لعبَ وُلَيْدٌ في الحديقةِ.\nA little boy played in the garden.",
-      "قرأتُ كُتَيِّباً نافعاً.\nI read a useful booklet.",
-      "مررنا بِنُهَيْرٍ صافٍ.\nWe passed by a clear little river."
+      "لعبَ وُلَيْدٌ في الحديقةِ.\nA little boy played in the garden."
     ],
-    "correctIndex": 4,
+    "correctIndex": 0,
     "a": "مررنا بِنُهَيْرٍ صافٍ.\nWe passed by a clear little river."
   },
   {
@@ -230,8 +212,7 @@ const quizItems: StrictQuizItem[] = [
       "نُهَيْر\nnuhayr — small river",
       "جُبَيْل\njubayl — small mountain",
       "رُجَيْل\nrujayl — little man",
-      "وُلَيْد\nwulayd — little boy",
-      "كُتَيِّب\nkutayyib — small book or booklet"
+      "وُلَيْد\nwulayd — little boy"
     ],
     "correctIndex": 0,
     "a": "نُهَيْر هو اللفظ المناسب في هذا المثال.\nnuhayr — small river is the appropriate form in this example."
@@ -239,13 +220,12 @@ const quizItems: StrictQuizItem[] = [
   {
     "q": "ما التحليل الأنسب لـ نُهَيْر؟\nWhat is the best description of nuhayr — small river?",
     "options": [
+      "تصغير نَهْر على وزن فُعَيْل\nThe diminutive of نَهْر on the pattern فُعَيْل",
       "تصغير جَبَل على وزن فُعَيْل\nThe diminutive of جَبَل on the pattern فُعَيْل",
       "تصغير رَجُل على وزن فُعَيْل\nThe diminutive of رَجُل on the pattern فُعَيْل",
-      "تصغير وَلَد على وزن فُعَيْل\nThe diminutive of وَلَد on the pattern فُعَيْل",
-      "تصغير كِتَاب على وزن فُعَيْل\nThe diminutive of كِتَاب on the pattern فُعَيْل",
-      "تصغير نَهْر على وزن فُعَيْل\nThe diminutive of نَهْر on the pattern فُعَيْل"
+      "تصغير وَلَد على وزن فُعَيْل\nThe diminutive of وَلَد on the pattern فُعَيْل"
     ],
-    "correctIndex": 4,
+    "correctIndex": 0,
     "a": "نُهَيْر: تصغير نَهْر على وزن فُعَيْل.\nnuhayr — small river: The diminutive of نَهْر on the pattern فُعَيْل."
   }
 ]
@@ -253,4 +233,8 @@ const quizItems: StrictQuizItem[] = [
 function TopicPage() {
   return <GrammarTopicPage arabic="اسم التصغير" title="The Diminutive" description="Practice the diminutive pattern فُعَيْل and the meanings it can convey." items={quizItems} />
 }
+
+
+
+
 

@@ -26,10 +26,8 @@ export type NavItem = (typeof navItems)[number]
 
 export const courses = {
   'arabic-101': {
-    /** S3 key prefix — must match the folder structure in the bucket */
-    s3Prefix: '',
-    /** CloudFront distribution URL for serving media (audio, images). */
-    cloudfrontUrl: 'https://dawj2kvc54uj9.cloudfront.net',
+    /** Public R2 bucket URL for serving lecture audio. */
+    mediaBaseUrl: 'https://pub-4e91125d0eb0450eae605318ab9d4bfa.r2.dev',
     name: 'Arabic With Mufti Saim',
     shortName: 'Arabic With Mufti Saim',
     description:

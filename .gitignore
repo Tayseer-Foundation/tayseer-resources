@@ -158,5 +158,13 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 
 
-# lectures on s3 now
-book-*
+# Lecture JSON is tracked in content/. These are local-only working dirs:
+# the raw S3 export, the source recordings, and the transcription scratch space.
+# Lecture audio is not in git at all — it is served from R2.
+/book-1-lectures/
+/book-2-lectures/
+/book-3-lectures/
+/s3-mirror/
+/new-recordings/
+/new-lectures-work/
+/r2-upload-list.txt

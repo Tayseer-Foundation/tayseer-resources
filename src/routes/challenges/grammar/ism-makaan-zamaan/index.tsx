@@ -14,8 +14,7 @@ const quizItems: StrictQuizItem[] = [
       "مَكْتَب\nmaktab — office or desk",
       "مَطْعَم\nmaṭʿam — restaurant",
       "مَسْجِد\nmasjid — mosque",
-      "مَجْلِس\nmajlis — sitting room or council",
-      "مُسْتَشْفَى\nmustashfā — hospital"
+      "مَجْلِس\nmajlis — sitting room or council"
     ],
     "correctIndex": 0,
     "a": "مَكْتَب: اسم مكان على وزن مَفْعَل.\nmaktab — office or desk: A place noun on the pattern مَفْعَل."
@@ -26,8 +25,7 @@ const quizItems: StrictQuizItem[] = [
       "هذا مَكْتَبُ المديرِ.\nThis is the principal’s office.",
       "نأكلُ في المَطْعَمِ.\nWe eat in the restaurant.",
       "صلّيتُ في المَسْجِدِ.\nI prayed in the mosque.",
-      "جلسنا في المَجْلِسِ.\nWe sat in the sitting room.",
-      "ذهبَ المريضُ إلى المُسْتَشْفَى.\nThe patient went to the hospital."
+      "جلسنا في المَجْلِسِ.\nWe sat in the sitting room."
     ],
     "correctIndex": 0,
     "a": "هذا مَكْتَبُ المديرِ.\nThis is the principal’s office."
@@ -38,8 +36,7 @@ const quizItems: StrictQuizItem[] = [
       "مَكْتَب\nmaktab — office or desk",
       "مَطْعَم\nmaṭʿam — restaurant",
       "مَسْجِد\nmasjid — mosque",
-      "مَجْلِس\nmajlis — sitting room or council",
-      "مُسْتَشْفَى\nmustashfā — hospital"
+      "مَجْلِس\nmajlis — sitting room or council"
     ],
     "correctIndex": 0,
     "a": "مَكْتَب هو اللفظ المناسب في هذا المثال.\nmaktab — office or desk is the appropriate form in this example."
@@ -50,8 +47,7 @@ const quizItems: StrictQuizItem[] = [
       "اسم مكان على وزن مَفْعَل\nA place noun on the pattern مَفْعَل",
       "اسم مكان على وزن مَفْعَل\nA place noun on the pattern مَفْعَل",
       "اسم مكان على وزن مَفْعِل\nA place noun on the pattern مَفْعِل",
-      "اسم مكان على وزن مَفْعِل\nA place noun on the pattern مَفْعِل",
-      "اسم مكان من فعل مزيد\nA place noun derived from an augmented verb"
+      "اسم مكان على وزن مَفْعِل\nA place noun on the pattern مَفْعِل"
     ],
     "correctIndex": 0,
     "a": "مَكْتَب: اسم مكان على وزن مَفْعَل.\nmaktab — office or desk: A place noun on the pattern مَفْعَل."
@@ -59,25 +55,23 @@ const quizItems: StrictQuizItem[] = [
   {
     "q": "ما اللفظ الذي يطابق الوصف الآتي: اسم مكان على وزن مَفْعَل؟\nWhich expression matches this description: A place noun on the pattern مَفْعَل?",
     "options": [
-      "مَكْتَب\nmaktab — office or desk",
       "مَطْعَم\nmaṭʿam — restaurant",
+      "مَكْتَب\nmaktab — office or desk",
       "مَسْجِد\nmasjid — mosque",
-      "مَجْلِس\nmajlis — sitting room or council",
-      "مُسْتَشْفَى\nmustashfā — hospital"
+      "مَجْلِس\nmajlis — sitting room or council"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "a": "مَطْعَم: اسم مكان على وزن مَفْعَل.\nmaṭʿam — restaurant: A place noun on the pattern مَفْعَل."
   },
   {
     "q": "أيُّ مثالٍ يستعمل مَطْعَم؟\nWhich example uses maṭʿam — restaurant?",
     "options": [
-      "هذا مَكْتَبُ المديرِ.\nThis is the principal’s office.",
       "نأكلُ في المَطْعَمِ.\nWe eat in the restaurant.",
+      "هذا مَكْتَبُ المديرِ.\nThis is the principal’s office.",
       "صلّيتُ في المَسْجِدِ.\nI prayed in the mosque.",
-      "جلسنا في المَجْلِسِ.\nWe sat in the sitting room.",
-      "ذهبَ المريضُ إلى المُسْتَشْفَى.\nThe patient went to the hospital."
+      "جلسنا في المَجْلِسِ.\nWe sat in the sitting room."
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "a": "نأكلُ في المَطْعَمِ.\nWe eat in the restaurant."
   },
   {
@@ -86,8 +80,7 @@ const quizItems: StrictQuizItem[] = [
       "مَطْعَم\nmaṭʿam — restaurant",
       "مَسْجِد\nmasjid — mosque",
       "مَجْلِس\nmajlis — sitting room or council",
-      "مُسْتَشْفَى\nmustashfā — hospital",
-      "مَكْتَب\nmaktab — office or desk"
+      "مُسْتَشْفَى\nmustashfā — hospital"
     ],
     "correctIndex": 0,
     "a": "مَطْعَم هو اللفظ المناسب في هذا المثال.\nmaṭʿam — restaurant is the appropriate form in this example."
@@ -98,34 +91,31 @@ const quizItems: StrictQuizItem[] = [
       "اسم مكان على وزن مَفْعَل\nA place noun on the pattern مَفْعَل",
       "اسم مكان على وزن مَفْعَل\nA place noun on the pattern مَفْعَل",
       "اسم مكان على وزن مَفْعِل\nA place noun on the pattern مَفْعِل",
-      "اسم مكان على وزن مَفْعِل\nA place noun on the pattern مَفْعِل",
-      "اسم مكان من فعل مزيد\nA place noun derived from an augmented verb"
+      "اسم مكان على وزن مَفْعِل\nA place noun on the pattern مَفْعِل"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "a": "مَطْعَم: اسم مكان على وزن مَفْعَل.\nmaṭʿam — restaurant: A place noun on the pattern مَفْعَل."
   },
   {
     "q": "ما اللفظ الذي يطابق الوصف الآتي: اسم مكان على وزن مَفْعِل؟\nWhich expression matches this description: A place noun on the pattern مَفْعِل?",
     "options": [
+      "مَسْجِد\nmasjid — mosque",
       "مَكْتَب\nmaktab — office or desk",
       "مَطْعَم\nmaṭʿam — restaurant",
-      "مَسْجِد\nmasjid — mosque",
-      "مَجْلِس\nmajlis — sitting room or council",
-      "مُسْتَشْفَى\nmustashfā — hospital"
+      "مَجْلِس\nmajlis — sitting room or council"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "a": "مَسْجِد: اسم مكان على وزن مَفْعِل.\nmasjid — mosque: A place noun on the pattern مَفْعِل."
   },
   {
     "q": "أيُّ مثالٍ يستعمل مَسْجِد؟\nWhich example uses masjid — mosque?",
     "options": [
+      "صلّيتُ في المَسْجِدِ.\nI prayed in the mosque.",
       "هذا مَكْتَبُ المديرِ.\nThis is the principal’s office.",
       "نأكلُ في المَطْعَمِ.\nWe eat in the restaurant.",
-      "صلّيتُ في المَسْجِدِ.\nI prayed in the mosque.",
-      "جلسنا في المَجْلِسِ.\nWe sat in the sitting room.",
-      "ذهبَ المريضُ إلى المُسْتَشْفَى.\nThe patient went to the hospital."
+      "جلسنا في المَجْلِسِ.\nWe sat in the sitting room."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "a": "صلّيتُ في المَسْجِدِ.\nI prayed in the mosque."
   },
   {
@@ -134,8 +124,7 @@ const quizItems: StrictQuizItem[] = [
       "مَسْجِد\nmasjid — mosque",
       "مَجْلِس\nmajlis — sitting room or council",
       "مُسْتَشْفَى\nmustashfā — hospital",
-      "مَكْتَب\nmaktab — office or desk",
-      "مَطْعَم\nmaṭʿam — restaurant"
+      "مَكْتَب\nmaktab — office or desk"
     ],
     "correctIndex": 0,
     "a": "مَسْجِد هو اللفظ المناسب في هذا المثال.\nmasjid — mosque is the appropriate form in this example."
@@ -143,37 +132,34 @@ const quizItems: StrictQuizItem[] = [
   {
     "q": "ما التحليل الأنسب لـ مَسْجِد؟\nWhat is the best description of masjid — mosque?",
     "options": [
+      "اسم مكان على وزن مَفْعِل\nA place noun on the pattern مَفْعِل",
       "اسم مكان على وزن مَفْعَل\nA place noun on the pattern مَفْعَل",
       "اسم مكان على وزن مَفْعَل\nA place noun on the pattern مَفْعَل",
-      "اسم مكان على وزن مَفْعِل\nA place noun on the pattern مَفْعِل",
-      "اسم مكان على وزن مَفْعِل\nA place noun on the pattern مَفْعِل",
-      "اسم مكان من فعل مزيد\nA place noun derived from an augmented verb"
+      "اسم مكان على وزن مَفْعِل\nA place noun on the pattern مَفْعِل"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "a": "مَسْجِد: اسم مكان على وزن مَفْعِل.\nmasjid — mosque: A place noun on the pattern مَفْعِل."
   },
   {
     "q": "ما اللفظ الذي يطابق الوصف الآتي: اسم مكان على وزن مَفْعِل؟\nWhich expression matches this description: A place noun on the pattern مَفْعِل?",
     "options": [
+      "مَجْلِس\nmajlis — sitting room or council",
       "مَكْتَب\nmaktab — office or desk",
       "مَطْعَم\nmaṭʿam — restaurant",
-      "مَسْجِد\nmasjid — mosque",
-      "مَجْلِس\nmajlis — sitting room or council",
-      "مُسْتَشْفَى\nmustashfā — hospital"
+      "مَسْجِد\nmasjid — mosque"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "a": "مَجْلِس: اسم مكان على وزن مَفْعِل.\nmajlis — sitting room or council: A place noun on the pattern مَفْعِل."
   },
   {
     "q": "أيُّ مثالٍ يستعمل مَجْلِس؟\nWhich example uses majlis — sitting room or council?",
     "options": [
+      "جلسنا في المَجْلِسِ.\nWe sat in the sitting room.",
       "هذا مَكْتَبُ المديرِ.\nThis is the principal’s office.",
       "نأكلُ في المَطْعَمِ.\nWe eat in the restaurant.",
-      "صلّيتُ في المَسْجِدِ.\nI prayed in the mosque.",
-      "جلسنا في المَجْلِسِ.\nWe sat in the sitting room.",
-      "ذهبَ المريضُ إلى المُسْتَشْفَى.\nThe patient went to the hospital."
+      "صلّيتُ في المَسْجِدِ.\nI prayed in the mosque."
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "a": "جلسنا في المَجْلِسِ.\nWe sat in the sitting room."
   },
   {
@@ -182,8 +168,7 @@ const quizItems: StrictQuizItem[] = [
       "مَجْلِس\nmajlis — sitting room or council",
       "مُسْتَشْفَى\nmustashfā — hospital",
       "مَكْتَب\nmaktab — office or desk",
-      "مَطْعَم\nmaṭʿam — restaurant",
-      "مَسْجِد\nmasjid — mosque"
+      "مَطْعَم\nmaṭʿam — restaurant"
     ],
     "correctIndex": 0,
     "a": "مَجْلِس هو اللفظ المناسب في هذا المثال.\nmajlis — sitting room or council is the appropriate form in this example."
@@ -191,37 +176,34 @@ const quizItems: StrictQuizItem[] = [
   {
     "q": "ما التحليل الأنسب لـ مَجْلِس؟\nWhat is the best description of majlis — sitting room or council?",
     "options": [
+      "اسم مكان على وزن مَفْعِل\nA place noun on the pattern مَفْعِل",
       "اسم مكان على وزن مَفْعَل\nA place noun on the pattern مَفْعَل",
       "اسم مكان على وزن مَفْعَل\nA place noun on the pattern مَفْعَل",
-      "اسم مكان على وزن مَفْعِل\nA place noun on the pattern مَفْعِل",
-      "اسم مكان على وزن مَفْعِل\nA place noun on the pattern مَفْعِل",
-      "اسم مكان من فعل مزيد\nA place noun derived from an augmented verb"
+      "اسم مكان على وزن مَفْعِل\nA place noun on the pattern مَفْعِل"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "a": "مَجْلِس: اسم مكان على وزن مَفْعِل.\nmajlis — sitting room or council: A place noun on the pattern مَفْعِل."
   },
   {
     "q": "ما اللفظ الذي يطابق الوصف الآتي: اسم مكان من فعل مزيد؟\nWhich expression matches this description: A place noun derived from an augmented verb?",
     "options": [
+      "مُسْتَشْفَى\nmustashfā — hospital",
       "مَكْتَب\nmaktab — office or desk",
       "مَطْعَم\nmaṭʿam — restaurant",
-      "مَسْجِد\nmasjid — mosque",
-      "مَجْلِس\nmajlis — sitting room or council",
-      "مُسْتَشْفَى\nmustashfā — hospital"
+      "مَسْجِد\nmasjid — mosque"
     ],
-    "correctIndex": 4,
+    "correctIndex": 0,
     "a": "مُسْتَشْفَى: اسم مكان من فعل مزيد.\nmustashfā — hospital: A place noun derived from an augmented verb."
   },
   {
     "q": "أيُّ مثالٍ يستعمل مُسْتَشْفَى؟\nWhich example uses mustashfā — hospital?",
     "options": [
+      "ذهبَ المريضُ إلى المُسْتَشْفَى.\nThe patient went to the hospital.",
       "هذا مَكْتَبُ المديرِ.\nThis is the principal’s office.",
       "نأكلُ في المَطْعَمِ.\nWe eat in the restaurant.",
-      "صلّيتُ في المَسْجِدِ.\nI prayed in the mosque.",
-      "جلسنا في المَجْلِسِ.\nWe sat in the sitting room.",
-      "ذهبَ المريضُ إلى المُسْتَشْفَى.\nThe patient went to the hospital."
+      "صلّيتُ في المَسْجِدِ.\nI prayed in the mosque."
     ],
-    "correctIndex": 4,
+    "correctIndex": 0,
     "a": "ذهبَ المريضُ إلى المُسْتَشْفَى.\nThe patient went to the hospital."
   },
   {
@@ -230,8 +212,7 @@ const quizItems: StrictQuizItem[] = [
       "مُسْتَشْفَى\nmustashfā — hospital",
       "مَكْتَب\nmaktab — office or desk",
       "مَطْعَم\nmaṭʿam — restaurant",
-      "مَسْجِد\nmasjid — mosque",
-      "مَجْلِس\nmajlis — sitting room or council"
+      "مَسْجِد\nmasjid — mosque"
     ],
     "correctIndex": 0,
     "a": "مُسْتَشْفَى هو اللفظ المناسب في هذا المثال.\nmustashfā — hospital is the appropriate form in this example."
@@ -239,13 +220,12 @@ const quizItems: StrictQuizItem[] = [
   {
     "q": "ما التحليل الأنسب لـ مُسْتَشْفَى؟\nWhat is the best description of mustashfā — hospital?",
     "options": [
+      "اسم مكان من فعل مزيد\nA place noun derived from an augmented verb",
       "اسم مكان على وزن مَفْعَل\nA place noun on the pattern مَفْعَل",
       "اسم مكان على وزن مَفْعَل\nA place noun on the pattern مَفْعَل",
-      "اسم مكان على وزن مَفْعِل\nA place noun on the pattern مَفْعِل",
-      "اسم مكان على وزن مَفْعِل\nA place noun on the pattern مَفْعِل",
-      "اسم مكان من فعل مزيد\nA place noun derived from an augmented verb"
+      "اسم مكان على وزن مَفْعِل\nA place noun on the pattern مَفْعِل"
     ],
-    "correctIndex": 4,
+    "correctIndex": 0,
     "a": "مُسْتَشْفَى: اسم مكان من فعل مزيد.\nmustashfā — hospital: A place noun derived from an augmented verb."
   }
 ]
@@ -253,4 +233,8 @@ const quizItems: StrictQuizItem[] = [
 function TopicPage() {
   return <GrammarTopicPage arabic="اسم المكان والزمان" title="Nouns of Place & Time" description="Practice the patterns used for places and times, especially مَفْعَل and مَفْعِل." items={quizItems} />
 }
+
+
+
+
 

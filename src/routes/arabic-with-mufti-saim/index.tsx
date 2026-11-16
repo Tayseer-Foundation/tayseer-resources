@@ -6,8 +6,8 @@ import { courses } from '#/config/site'
 
 const course = courses['arabic-101']
 
-// Dynamic import keeps the AWS SDK out of the client bundle. Static imports at
-// the top of this file would be analyzed by Vite and included client-side.
+// Dynamic import keeps the bundled lecture content out of the client bundle.
+// A static import here would be analyzed by Vite and shipped client-side.
 const fetchAllBooks = createServerFn({ method: 'GET' }).handler(async () => {
   const { loadAllBooks } = await import('#/routes/arabic-with-mufti-saim/-arabic-101.server')
   return loadAllBooks()

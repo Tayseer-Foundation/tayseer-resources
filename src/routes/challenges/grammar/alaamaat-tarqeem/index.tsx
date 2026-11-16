@@ -14,8 +14,7 @@ const quizItems: StrictQuizItem[] = [
       "،\nArabic comma",
       "؛\nArabic semicolon",
       "؟\nquestion mark",
-      "!\nexclamation mark",
-      ":\ncolon"
+      "!\nexclamation mark"
     ],
     "correctIndex": 0,
     "a": "،: فاصلة بين الجمل القصيرة أو عناصر القائمة.\nArabic comma: A comma between short clauses or list items."
@@ -26,8 +25,7 @@ const quizItems: StrictQuizItem[] = [
       "جاء زيدٌ، ثم جلسَ.\nZayd came, then he sat down.",
       "اجتهدْ؛ فإنَّ النجاحَ ثمرةُ العملِ.\nWork hard; success is the fruit of effort.",
       "أينَ كتابُكَ؟\nWhere is your book?",
-      "ما أجملَ السماءَ!\nHow beautiful the sky is!",
-      "قال المدرسُ: «افتحوا الكتبَ».\nThe teacher said: “Open the books.”"
+      "ما أجملَ السماءَ!\nHow beautiful the sky is!"
     ],
     "correctIndex": 0,
     "a": "جاء زيدٌ، ثم جلسَ.\nZayd came, then he sat down."
@@ -38,8 +36,7 @@ const quizItems: StrictQuizItem[] = [
       "،\nArabic comma",
       "؛\nArabic semicolon",
       "؟\nquestion mark",
-      "!\nexclamation mark",
-      ":\ncolon"
+      "!\nexclamation mark"
     ],
     "correctIndex": 0,
     "a": "، هو اللفظ المناسب في هذا المثال.\nArabic comma is the appropriate form in this example."
@@ -50,8 +47,7 @@ const quizItems: StrictQuizItem[] = [
       "فاصلة بين الجمل القصيرة أو عناصر القائمة\nA comma between short clauses or list items",
       "فاصلة منقوطة قبل بيان السبب أو النتيجة\nA semicolon before an explanation of cause or result",
       "علامة استفهام في نهاية السؤال المباشر\nA question mark at the end of a direct question",
-      "علامة تعجب بعد التعجب أو الانفعال\nAn exclamation mark after wonder or strong feeling",
-      "نقطتان قبل القول أو المثال أو القائمة\nA colon before a quotation, example, or list"
+      "علامة تعجب بعد التعجب أو الانفعال\nAn exclamation mark after wonder or strong feeling"
     ],
     "correctIndex": 0,
     "a": "،: فاصلة بين الجمل القصيرة أو عناصر القائمة.\nArabic comma: A comma between short clauses or list items."
@@ -59,25 +55,23 @@ const quizItems: StrictQuizItem[] = [
   {
     "q": "ما اللفظ الذي يطابق الوصف الآتي: فاصلة منقوطة قبل بيان السبب أو النتيجة؟\nWhich expression matches this description: A semicolon before an explanation of cause or result?",
     "options": [
-      "،\nArabic comma",
       "؛\nArabic semicolon",
+      "،\nArabic comma",
       "؟\nquestion mark",
-      "!\nexclamation mark",
-      ":\ncolon"
+      "!\nexclamation mark"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "a": "؛: فاصلة منقوطة قبل بيان السبب أو النتيجة.\nArabic semicolon: A semicolon before an explanation of cause or result."
   },
   {
     "q": "أيُّ مثالٍ يستعمل ؛؟\nWhich example uses Arabic semicolon?",
     "options": [
-      "جاء زيدٌ، ثم جلسَ.\nZayd came, then he sat down.",
       "اجتهدْ؛ فإنَّ النجاحَ ثمرةُ العملِ.\nWork hard; success is the fruit of effort.",
+      "جاء زيدٌ، ثم جلسَ.\nZayd came, then he sat down.",
       "أينَ كتابُكَ؟\nWhere is your book?",
-      "ما أجملَ السماءَ!\nHow beautiful the sky is!",
-      "قال المدرسُ: «افتحوا الكتبَ».\nThe teacher said: “Open the books.”"
+      "ما أجملَ السماءَ!\nHow beautiful the sky is!"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "a": "اجتهدْ؛ فإنَّ النجاحَ ثمرةُ العملِ.\nWork hard; success is the fruit of effort."
   },
   {
@@ -86,8 +80,7 @@ const quizItems: StrictQuizItem[] = [
       "؛\nArabic semicolon",
       "؟\nquestion mark",
       "!\nexclamation mark",
-      ":\ncolon",
-      "،\nArabic comma"
+      ":\ncolon"
     ],
     "correctIndex": 0,
     "a": "؛ هو اللفظ المناسب في هذا المثال.\nArabic semicolon is the appropriate form in this example."
@@ -95,37 +88,34 @@ const quizItems: StrictQuizItem[] = [
   {
     "q": "ما التحليل الأنسب لـ ؛؟\nWhat is the best description of Arabic semicolon?",
     "options": [
-      "فاصلة بين الجمل القصيرة أو عناصر القائمة\nA comma between short clauses or list items",
       "فاصلة منقوطة قبل بيان السبب أو النتيجة\nA semicolon before an explanation of cause or result",
+      "فاصلة بين الجمل القصيرة أو عناصر القائمة\nA comma between short clauses or list items",
       "علامة استفهام في نهاية السؤال المباشر\nA question mark at the end of a direct question",
-      "علامة تعجب بعد التعجب أو الانفعال\nAn exclamation mark after wonder or strong feeling",
-      "نقطتان قبل القول أو المثال أو القائمة\nA colon before a quotation, example, or list"
+      "علامة تعجب بعد التعجب أو الانفعال\nAn exclamation mark after wonder or strong feeling"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "a": "؛: فاصلة منقوطة قبل بيان السبب أو النتيجة.\nArabic semicolon: A semicolon before an explanation of cause or result."
   },
   {
     "q": "ما اللفظ الذي يطابق الوصف الآتي: علامة استفهام في نهاية السؤال المباشر؟\nWhich expression matches this description: A question mark at the end of a direct question?",
     "options": [
+      "؟\nquestion mark",
       "،\nArabic comma",
       "؛\nArabic semicolon",
-      "؟\nquestion mark",
-      "!\nexclamation mark",
-      ":\ncolon"
+      "!\nexclamation mark"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "a": "؟: علامة استفهام في نهاية السؤال المباشر.\nquestion mark: A question mark at the end of a direct question."
   },
   {
     "q": "أيُّ مثالٍ يستعمل ؟؟\nWhich example uses question mark?",
     "options": [
+      "أينَ كتابُكَ؟\nWhere is your book?",
       "جاء زيدٌ، ثم جلسَ.\nZayd came, then he sat down.",
       "اجتهدْ؛ فإنَّ النجاحَ ثمرةُ العملِ.\nWork hard; success is the fruit of effort.",
-      "أينَ كتابُكَ؟\nWhere is your book?",
-      "ما أجملَ السماءَ!\nHow beautiful the sky is!",
-      "قال المدرسُ: «افتحوا الكتبَ».\nThe teacher said: “Open the books.”"
+      "ما أجملَ السماءَ!\nHow beautiful the sky is!"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "a": "أينَ كتابُكَ؟\nWhere is your book?"
   },
   {
@@ -134,8 +124,7 @@ const quizItems: StrictQuizItem[] = [
       "؟\nquestion mark",
       "!\nexclamation mark",
       ":\ncolon",
-      "،\nArabic comma",
-      "؛\nArabic semicolon"
+      "،\nArabic comma"
     ],
     "correctIndex": 0,
     "a": "؟ هو اللفظ المناسب في هذا المثال.\nquestion mark is the appropriate form in this example."
@@ -143,37 +132,34 @@ const quizItems: StrictQuizItem[] = [
   {
     "q": "ما التحليل الأنسب لـ ؟؟\nWhat is the best description of question mark?",
     "options": [
+      "علامة استفهام في نهاية السؤال المباشر\nA question mark at the end of a direct question",
       "فاصلة بين الجمل القصيرة أو عناصر القائمة\nA comma between short clauses or list items",
       "فاصلة منقوطة قبل بيان السبب أو النتيجة\nA semicolon before an explanation of cause or result",
-      "علامة استفهام في نهاية السؤال المباشر\nA question mark at the end of a direct question",
-      "علامة تعجب بعد التعجب أو الانفعال\nAn exclamation mark after wonder or strong feeling",
-      "نقطتان قبل القول أو المثال أو القائمة\nA colon before a quotation, example, or list"
+      "علامة تعجب بعد التعجب أو الانفعال\nAn exclamation mark after wonder or strong feeling"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "a": "؟: علامة استفهام في نهاية السؤال المباشر.\nquestion mark: A question mark at the end of a direct question."
   },
   {
     "q": "ما اللفظ الذي يطابق الوصف الآتي: علامة تعجب بعد التعجب أو الانفعال؟\nWhich expression matches this description: An exclamation mark after wonder or strong feeling?",
     "options": [
+      "!\nexclamation mark",
       "،\nArabic comma",
       "؛\nArabic semicolon",
-      "؟\nquestion mark",
-      "!\nexclamation mark",
-      ":\ncolon"
+      "؟\nquestion mark"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "a": "!: علامة تعجب بعد التعجب أو الانفعال.\nexclamation mark: An exclamation mark after wonder or strong feeling."
   },
   {
     "q": "أيُّ مثالٍ يستعمل !؟\nWhich example uses exclamation mark?",
     "options": [
+      "ما أجملَ السماءَ!\nHow beautiful the sky is!",
       "جاء زيدٌ، ثم جلسَ.\nZayd came, then he sat down.",
       "اجتهدْ؛ فإنَّ النجاحَ ثمرةُ العملِ.\nWork hard; success is the fruit of effort.",
-      "أينَ كتابُكَ؟\nWhere is your book?",
-      "ما أجملَ السماءَ!\nHow beautiful the sky is!",
-      "قال المدرسُ: «افتحوا الكتبَ».\nThe teacher said: “Open the books.”"
+      "أينَ كتابُكَ؟\nWhere is your book?"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "a": "ما أجملَ السماءَ!\nHow beautiful the sky is!"
   },
   {
@@ -182,8 +168,7 @@ const quizItems: StrictQuizItem[] = [
       "!\nexclamation mark",
       ":\ncolon",
       "،\nArabic comma",
-      "؛\nArabic semicolon",
-      "؟\nquestion mark"
+      "؛\nArabic semicolon"
     ],
     "correctIndex": 0,
     "a": "! هو اللفظ المناسب في هذا المثال.\nexclamation mark is the appropriate form in this example."
@@ -191,37 +176,34 @@ const quizItems: StrictQuizItem[] = [
   {
     "q": "ما التحليل الأنسب لـ !؟\nWhat is the best description of exclamation mark?",
     "options": [
+      "علامة تعجب بعد التعجب أو الانفعال\nAn exclamation mark after wonder or strong feeling",
       "فاصلة بين الجمل القصيرة أو عناصر القائمة\nA comma between short clauses or list items",
       "فاصلة منقوطة قبل بيان السبب أو النتيجة\nA semicolon before an explanation of cause or result",
-      "علامة استفهام في نهاية السؤال المباشر\nA question mark at the end of a direct question",
-      "علامة تعجب بعد التعجب أو الانفعال\nAn exclamation mark after wonder or strong feeling",
-      "نقطتان قبل القول أو المثال أو القائمة\nA colon before a quotation, example, or list"
+      "علامة استفهام في نهاية السؤال المباشر\nA question mark at the end of a direct question"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "a": "!: علامة تعجب بعد التعجب أو الانفعال.\nexclamation mark: An exclamation mark after wonder or strong feeling."
   },
   {
     "q": "ما اللفظ الذي يطابق الوصف الآتي: نقطتان قبل القول أو المثال أو القائمة؟\nWhich expression matches this description: A colon before a quotation, example, or list?",
     "options": [
+      ":\ncolon",
       "،\nArabic comma",
       "؛\nArabic semicolon",
-      "؟\nquestion mark",
-      "!\nexclamation mark",
-      ":\ncolon"
+      "؟\nquestion mark"
     ],
-    "correctIndex": 4,
+    "correctIndex": 0,
     "a": ":: نقطتان قبل القول أو المثال أو القائمة.\ncolon: A colon before a quotation, example, or list."
   },
   {
     "q": "أيُّ مثالٍ يستعمل :؟\nWhich example uses colon?",
     "options": [
+      "قال المدرسُ: «افتحوا الكتبَ».\nThe teacher said: “Open the books.”",
       "جاء زيدٌ، ثم جلسَ.\nZayd came, then he sat down.",
       "اجتهدْ؛ فإنَّ النجاحَ ثمرةُ العملِ.\nWork hard; success is the fruit of effort.",
-      "أينَ كتابُكَ؟\nWhere is your book?",
-      "ما أجملَ السماءَ!\nHow beautiful the sky is!",
-      "قال المدرسُ: «افتحوا الكتبَ».\nThe teacher said: “Open the books.”"
+      "أينَ كتابُكَ؟\nWhere is your book?"
     ],
-    "correctIndex": 4,
+    "correctIndex": 0,
     "a": "قال المدرسُ: «افتحوا الكتبَ».\nThe teacher said: “Open the books.”"
   },
   {
@@ -230,8 +212,7 @@ const quizItems: StrictQuizItem[] = [
       ":\ncolon",
       "،\nArabic comma",
       "؛\nArabic semicolon",
-      "؟\nquestion mark",
-      "!\nexclamation mark"
+      "؟\nquestion mark"
     ],
     "correctIndex": 0,
     "a": ": هو اللفظ المناسب في هذا المثال.\ncolon is the appropriate form in this example."
@@ -239,13 +220,12 @@ const quizItems: StrictQuizItem[] = [
   {
     "q": "ما التحليل الأنسب لـ :؟\nWhat is the best description of colon?",
     "options": [
+      "نقطتان قبل القول أو المثال أو القائمة\nA colon before a quotation, example, or list",
       "فاصلة بين الجمل القصيرة أو عناصر القائمة\nA comma between short clauses or list items",
       "فاصلة منقوطة قبل بيان السبب أو النتيجة\nA semicolon before an explanation of cause or result",
-      "علامة استفهام في نهاية السؤال المباشر\nA question mark at the end of a direct question",
-      "علامة تعجب بعد التعجب أو الانفعال\nAn exclamation mark after wonder or strong feeling",
-      "نقطتان قبل القول أو المثال أو القائمة\nA colon before a quotation, example, or list"
+      "علامة استفهام في نهاية السؤال المباشر\nA question mark at the end of a direct question"
     ],
-    "correctIndex": 4,
+    "correctIndex": 0,
     "a": ":: نقطتان قبل القول أو المثال أو القائمة.\ncolon: A colon before a quotation, example, or list."
   }
 ]
@@ -253,4 +233,8 @@ const quizItems: StrictQuizItem[] = [
 function TopicPage() {
   return <GrammarTopicPage arabic="علامات الترقيم" title="Punctuation" description="Use Arabic punctuation marks to make statements, questions, explanations, and exclamations clear." items={quizItems} />
 }
+
+
+
+
 
