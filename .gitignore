@@ -168,3 +168,5 @@ vite.config.ts.timestamp-*
 /new-recordings/
 /new-lectures-work/
 /r2-upload-list.txt
+/new-r2-uploads.txt
+/parity-report.txt
